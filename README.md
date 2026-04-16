@@ -22,12 +22,12 @@ Pre-final year CSE student building **scalable full-stack + AI-powered systems**
 
 ---
 
-## 🏆 Competitive Programming
+## 🏆 Problem Solving
 
 - ⭐ **CodeChef: 2★ (1440 rating)**
-- 🟣 **LeetCode: 1900+ (Knight | Top 4%)**
-- 🌍 Global Rank: **13k**
-- 🧩 Solved: **1200+ problems**
+- 🟣 **LeetCode: max 1906 Rated (Knight | Top 4%) | Global Rank 11k**
+- 🌍 Codeforces: **NewBie (810 Rated)**
+- 🧩 Solved: **1400+ DSA problems over different platforms**
 - 🏅 Rank **567** (Biweekly 174) & **1264** (Weekly 492)
 - 🥇 AIR **235 / 32K+** (Naukri Coding Challenge)
 
