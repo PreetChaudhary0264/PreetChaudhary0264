@@ -16,7 +16,7 @@
 Pre-final year CSE student building **scalable full-stack + AI-powered systems**.
 
 - 💻 Strong in **MERN + System Design + GenAI integrations**
-- 🧠 Solved **1200+ DSA problems**
+- 🧠 Solved **1500+ DSA problems**
 - ⚡ Focused on **performance, security & real-world impact**
 - 🚀 I build products, not just projects
 
@@ -24,9 +24,9 @@ Pre-final year CSE student building **scalable full-stack + AI-powered systems**
 
 ## 🏆 Problem Solving
 
-- ⭐ **CodeChef: 2★ (1440 rating)**
+- ⭐ **CodeChef: 2★ (1540 rating)**
 - 🟣 **LeetCode: max 1906 Rated (Knight | Top 4%) | Global Rank 11k**
-- 🌍 Codeforces: **NewBie (810 Rated)**
+- 🌍 Codeforces: **NewBie (1001 Rated)**
 - 🧩 Solved: **1400+ DSA problems over different platforms**
 - 🏅 Rank **567** (Biweekly 174) & **1264** (Weekly 492)
 - 🥇 AIR **235 / 32K+** (Naukri Coding Challenge)
