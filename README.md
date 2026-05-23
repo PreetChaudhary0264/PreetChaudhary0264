@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👨‍💻 Preet Chaudhary</h1>
-<h3 align="center">Full Stack Developer | GenAI Builder | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer | GenAI Builder</h3>
 
 <p align="center">
 🚀 MERN • ⚡ GenAI • 🔐 Systems • 🧠 DSA
